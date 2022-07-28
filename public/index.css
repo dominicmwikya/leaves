@@ -1,0 +1,25 @@
+#heading1{
+	/*background-color: skyblue;*/
+	height: 60px;
+
+}
+#addBtn{
+	margin: 4px;
+}
+.select-wrap 
+{
+  border: 1px solid #777;
+  border-radius: 2px;
+  margin-bottom: 5px;
+  padding: 0 2px 2px;
+  width:100px;
+  background-color:#ebebeb;
+}
+
+.select-wrap label
+{
+  font-size:10px;
+  text-transform: uppercase;
+  color: #777;
+  padding: 2px 8px 0;
+}

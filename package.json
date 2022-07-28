@@ -1,0 +1,26 @@
+{
+  "name": "leave",
+  "version": "1.0.0",
+  "description": "leave project codeIgniter 4",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dominicmwikya/Leave.git"
+  },
+  "keywords": [
+    "LEAVE",
+    "SYSTEM"
+  ],
+  "author": "DOMINIC MWIKYA",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dominicmwikya/Leave/issues"
+  },
+  "homepage": "https://github.com/dominicmwikya/Leave#readme"
+}
